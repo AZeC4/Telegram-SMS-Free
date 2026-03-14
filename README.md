@@ -30,7 +30,7 @@
 
 只要操作方式正确，大多数情况下都可以**完全绕过这一步，免费完成注册**。
 
-## 本视频所用到的网址：https://t.me/xieyihaoautobot
+## 本视频所用到的网址：
 
 *   机场大全：[点击查看>>](https://vpnnav.github.io)
 *   Telegram账号：[点击查看>>](faka.tg10000.com)
